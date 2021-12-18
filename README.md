@@ -1,2 +1,2 @@
 # wifis
-Script em bash para guardar informações sobre redes wifi.
+Bash scrip to store wifi networks information
